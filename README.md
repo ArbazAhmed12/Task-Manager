@@ -75,5 +75,5 @@ npm run seed
 
 ## Submission
 
-- Live URL: add your Railway app URL here
-- GitHub repo: add your repository URL here
+- Live URL: (http://localhost:8080)
+- GitHub repo: (https://github.com/ArbazAhmed12/Task-Manager)
