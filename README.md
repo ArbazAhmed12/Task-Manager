@@ -75,5 +75,5 @@ npm run seed
 
 ## Submission
 
-- Live URL: (http://localhost:8080)
+- Live URL: (https://task-manager-zeta-two-50.vercel.app/))
 - GitHub repo: (https://github.com/ArbazAhmed12/Task-Manager)
